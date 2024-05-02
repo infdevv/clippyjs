@@ -1,4 +1,4 @@
-var availableAgents = ['Bonzi', 'Clippy', 'F1', 'Genie', 'Genius', 'Links', 'Merlin', 'Peedy', 'Rocky', 'Rover']
+var availableAgents = ['Clippy']
 
 var talks = [
     'How can i help you?',
